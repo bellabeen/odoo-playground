@@ -121,7 +121,7 @@
         </record>
         
         <!-- Membuat Menu Dashboard -->
-        <menuitem id="menu_dashboard_training_odoo" name="Training Odoo"/>
+        <menuitem id="menu_dashboard_training_odoo" name="Training Odoo NEW"/>
 
         <!-- Membuat Menu Bar -->
         <menuitem id="menu_bar_training_odoo" name="Training" parent="menu_dashboard_training_odoo"/>

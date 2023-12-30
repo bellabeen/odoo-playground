@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Training Odoo",
+    'name': "Training Odoo NEW",
 
     'summary': """ Modul untuk latihan technical Odoo """,
 
